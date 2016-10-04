@@ -6,7 +6,7 @@ public class Hello_World {
 		
 		
 		System.out.println("Hello World!");
-		System.out.println("Modificació");
+		System.out.println("Modificació2");
 	}
 
 }
