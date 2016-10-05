@@ -7,6 +7,7 @@ public class Hello_World {
 		
 		System.out.println("Hello World!");
 		System.out.println("Modificació2");
+		System.out.println("Modificació fora de IDE");
 	}
 
 }
