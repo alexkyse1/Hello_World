@@ -6,8 +6,8 @@ public class Hello_World {
 		
 		
 		System.out.println("Hello World!");
-		System.out.println("ModificaciÛ2");
-		System.out.println("ModificaciÛ fora de IDE");
+		System.out.println("Modificaci√≥2");
+		System.out.println("Modificaci√≥ fora de IDE Provocaci√≥ Conflicte.");
 	}
 
 }
